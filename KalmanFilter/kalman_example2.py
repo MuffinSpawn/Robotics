@@ -2,7 +2,9 @@
 """
 Created on Thu May 10 12:17:24 2018
 
-@author: plane
+@author: Scott Lobdell
+
+From Scott's blog post at http://scottlobdell.me/2014/08/kalman-filtering-python-reading-sensor-input/.
 """
 
 
